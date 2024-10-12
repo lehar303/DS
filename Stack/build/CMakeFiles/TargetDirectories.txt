@@ -1,0 +1,3 @@
+/home/lehar/Documents/DS/Stack/build/CMakeFiles/Stackexe.dir
+/home/lehar/Documents/DS/Stack/build/CMakeFiles/edit_cache.dir
+/home/lehar/Documents/DS/Stack/build/CMakeFiles/rebuild_cache.dir

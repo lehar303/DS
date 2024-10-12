@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Stackexe.dir/main.cpp.o CMakeFiles/Stackexe.dir/node.cpp.o CMakeFiles/Stackexe.dir/stack.cpp.o -o Stackexe 
